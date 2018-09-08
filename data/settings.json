@@ -105,8 +105,8 @@
     "label": "Location",
     "name": "Casablanca",
     "city": "Casablanca",
-    "short": "Casblanca, Morocco",
-    "address": "Casblanca, Morocco",
+    "short": "Casablanca, Morocco",
+    "address": "Casablanca, Morocco",
     "pointer": {
       "latitude": 49.809841,
       "longitude": 23.972805,
