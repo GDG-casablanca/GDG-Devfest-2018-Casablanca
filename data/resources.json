@@ -130,7 +130,7 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections and coffee breaks. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Tickets grant access to all conference sections and coffee breaks. Accommodation is NOT included in the ticket.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
@@ -188,7 +188,7 @@
     "description": "This year's festival built lots of excitement. Check out photos from featured talks and hands-on learning sessions.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://www.meetup.com/GDGCasablanca/photos/28317799/466151079/"
+      "link": "https://www.meetup.com/GDGCasablanca/photos/all_photos/?photoAlbumId=28317799"
     }
   },
   "mapBlock": {
