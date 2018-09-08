@@ -1,15 +1,15 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.firebaseapp.com/",
-  "analytics": "UA-43643469-9",
+  "url": "https://devfest-casablanca-2018.firebaseapp.com/",
+  "analytics": "UA-43643469-8",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
-    "authDomain": "hoverboard-master.firebaseapp.com",
-    "databaseURL": "https://hoverboard-master.firebaseio.com",
-    "projectId": "hoverboard-master",
-    "storageBucket": "hoverboard-master.appspot.com",
-    "messagingSenderId": "516409946568"
+    "apiKey": "AIzaSyBEaxZwztoComgIKOxcKM8vbmqeG-CSnw4",
+    "authDomain": "devfest-casablanca-2018.firebaseapp.com",
+    "databaseURL": "https://devfest-casablanca-2018.firebaseio.com",
+    "projectId": "devfest-casablanca-2018",
+    "storageBucket": "devfest-casablanca-2018.appspot.com",
+    "messagingSenderId": "22372445590"
   },
   "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
 }
