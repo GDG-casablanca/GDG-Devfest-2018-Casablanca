@@ -108,13 +108,13 @@
     "short": "Casablanca, Morocco",
     "address": "Casablanca, Morocco",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 33.5724108,
+      "longitude": -7.6570331,
+      "zoom": 7
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 33,
+      "longitude": -8
     },
     "description": "Location will be announced soon."
   },
@@ -146,7 +146,7 @@
       },
       {
         "name": "youtube",
-        "url": "#!"
+        "url": "https://www.youtube.com/channel/UCia6JlmDDW4Ht93ckiOhqoQ"
       }
     ],
     "share": [
@@ -164,7 +164,7 @@
       }
     ]
   },
-  "mailto": "contact.gdgcasabalnca@gmail.com",
+  "mailto": "contact.gdgcasablanca@gmail.com",
   "mailchimp": {
     "url": "#!",
     "name": "#!"
