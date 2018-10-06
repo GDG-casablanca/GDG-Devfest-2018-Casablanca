@@ -3,7 +3,7 @@
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, casablanca, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "November 3rd, 2018",
+  "dates": "November 17th, 2018",
   "partnershipProposition": "mailto:contact.gdgcasablanca@gmail.com",
   "share": "Share",
   "followOur": "Follow our",
@@ -240,7 +240,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://gdgcasablanca.com/' target='_blank' rel='noopener noreferrer'>GDG Casablanca</a> with support of WTM Casablanca is proud organizer of DevFest Casablanca",
+        "description": "<a href='https://gdgcasablanca.com/' target='_blank' rel='noopener noreferrer'>GDG Casablanca</a> with support of WTM Casablanca is the proud organizer of DevFest Casablanca '18.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
@@ -248,7 +248,7 @@
       },
       {
         "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "description": "Google Developer Groups (GDGs) - are open volunteer community that creates exciting projects and share experiences about Google products and API with passion.",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
