@@ -103,20 +103,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Casablanca",
+    "name": "Technopark Casablanca",
     "city": "Casablanca",
     "short": "Casablanca, Morocco",
-    "address": "Casablanca, Morocco",
+    "address": "Technopark, Boulevard Dammam, Casablanca, Morocco",
     "pointer": {
-      "latitude": 33.5724108,
-      "longitude": -7.6570331,
-      "zoom": 7
+      "latitude": 33.5426779,
+      "longitude": -7.6418013,
+      "zoom": 12
     },
     "mapCenter": {
-      "latitude": 33,
-      "longitude": -8
+      "latitude": 33.54,
+      "longitude": -7.68
     },
-    "description": "Location will be announced soon."
+    "description": "Technopark Casablanca"
   },
   "mediaQueries": {
     "xs": {
